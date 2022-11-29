@@ -13,7 +13,7 @@ In this app I have used difrenet layouts to make the app UI responsive. The used
 
 
 
-##Screnshots:-
+## Screnshots:-
 
 ![WhatsApp Image 2022-11-30 at 2 59 03 AM](https://user-images.githubusercontent.com/98604308/204651941-f06dc74e-f95d-44fe-b23e-af5eb2056988.jpeg)
 
